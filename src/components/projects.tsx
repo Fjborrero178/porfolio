@@ -23,7 +23,7 @@ function Projects(){
                                 </p>
                                 <div className="flex justify-left space-x-2 mt-2">
                                     <a className=" flex items-center underline text-pink-600 hover:text-pink-700" href="https://tenis-tournament.vercel.app/" target="_blank">https://tenis-tournament.vercel.app/<CiShare1 /> </a>
-                                    <a className=" flex items-center text-2xl text-gray-600 hover:text-gray-800" href="https://github.com/Fjborrero178/Tenis-Tournament" target="_blank"> Code  <FaGithub className= " m-1 "/> </a>
+                                    <a className=" flex items-center text-2xl text-gray-600 hover:text-gray-800" href="https://github.com/Fjborrero178/Tenis-Tournament" target="_blank">  <FaGithub className= " m-1 "/> </a>
                                 </div>
                                
                             </div>
