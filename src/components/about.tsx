@@ -9,7 +9,7 @@ function About(){
             <div className="md:flex md:max-w-2xl "> 
             
                 <p className="pt-16 mt-4"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit minus sequi dolores nisi odio? Obcaecati odit, dolore nostrum, rem modi fugiat laudantium, quibusdam aperiam accusantium similique id quisquam minima placeat.</p>
-                <img className=" lgw-[80%] md:ml-20" src="descarga.jpeg" alt="" />
+                
             </div>
             
            
